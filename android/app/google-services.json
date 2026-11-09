@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195567523013",
+    "project_id": "justja-5852c",
+    "storage_bucket": "justja-5852c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195567523013:android:c3c6998ac9ae66fac48cac",
+        "android_client_info": {
+          "package_name": "se.justja.justja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195567523013-7arempcjbr2n57r817ed91e7mcmr7kge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.justja.justja",
+            "certificate_hash": "46c88931391fc3fdda558167b6bd14f8e3ed5f29"
+          }
+        },
+        {
+          "client_id": "195567523013-bcicstt8jstkq1thoi6rpehqjg0h8u9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqR0_2wqWruET_5O0ylvZ1-iNmfpKY9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195567523013-bcicstt8jstkq1thoi6rpehqjg0h8u9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
